@@ -7,7 +7,7 @@ subtitle: PhD Student @ UCL
 profile:
   align: right
   image: william.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>London, UK</p>
 news: true # includes a list of news items
