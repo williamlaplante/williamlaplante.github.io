@@ -20,7 +20,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
-I’m a first-year PhD student at University College London (UCL) and part of the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) group. 
+I’m a second-year PhD student at University College London (UCL) and part of the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) group. 
 
 I'm supervised by [François-Xavier Briol](https://fxbriol.github.io/) as well as [Andrew Duncan](https://profiles.imperial.ac.uk/a.duncan) and [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/). My studies are co-funded by UCL’s Centre for Doctoral Training in Data-Intensive Science, the Department of Statistical Science at UCL, and the Alan Turing Institute’s Program for Fundamental Research in Data Science and AI.
 
